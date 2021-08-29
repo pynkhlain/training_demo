@@ -1,3 +1,4 @@
 this is just a file
 changed this line
 Added a new branch
+new line in feature
